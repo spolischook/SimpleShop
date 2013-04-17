@@ -1,0 +1,3 @@
+sh_index:
+    pattern: /
+    defaults: { _controller: SimpleShopBundle:Index:index }
