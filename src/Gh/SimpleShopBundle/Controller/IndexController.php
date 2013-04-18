@@ -14,6 +14,6 @@ class IndexController extends Controller
      */
     public function indexAction()
     {
-        return new Response('hello world!');
+        return array(   );
     }
 }
