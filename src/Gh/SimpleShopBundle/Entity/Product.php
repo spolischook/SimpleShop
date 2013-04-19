@@ -3,7 +3,6 @@
 namespace Gh\SimpleShopBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
-use JMS\Serializer\Annotation\SerializedName;
 
 /**
  * Product
