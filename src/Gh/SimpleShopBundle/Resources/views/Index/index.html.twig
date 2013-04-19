@@ -1,4 +1,10 @@
 {% extends '::base.html.twig' %}
 {% block content %}
-    Hello World!
+    <ul>
+        {% for obj in objArray %}
+            <li>
+                {{ obj.name }}
+            </li>
+        {% endfor %}
+    </ul>
 {% endblock %}
