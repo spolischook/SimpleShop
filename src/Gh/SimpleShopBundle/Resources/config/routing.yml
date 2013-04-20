@@ -1,3 +1,8 @@
-sh_index:
-    pattern: /
-    defaults: { _controller: SimpleShopBundle:Index:index }
+sh_shop:
+    resource: "@SimpleShopBundle/Resources/config/routing/shop.yml"
+    prefix:   /
+
+sh_api:
+    resource: Gh\SimpleShopBundle\Controller\ApiController
+    type:     rest
+    prefix:   /api
