@@ -3,11 +3,12 @@
 namespace Gh\SimpleShopBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
+use Doctrine\Common\Collections\ArrayCollection;
 
 /**
  * Category
  *
- * @ORM\Table()
+ * @ORM\Table(name="category")
  * @ORM\Entity
  */
 class Category
@@ -35,6 +36,20 @@ class Category
      */
     private $sku;
 
+    /** @ORM\OneToMany(targetEntity="Product", mappedBy="category") */
+    private $products;
+
+    /** @ORM\ManyToOne(targetEntity="Category", inversedBy="children") */
+    private $parent;
+
+    /** @ORM\OneToMany(targetEntity="Category", mappedBy="parent") */
+    private $children;
+
+    public function __construct()
+    {
+        $this->products = new ArrayCollection();
+        $this->children = new ArrayCollection();
+    }
 
     /**
      * Get id
@@ -90,5 +105,94 @@ class Category
     public function getSku()
     {
         return $this->sku;
+    }
+
+    /**
+     * Add products
+     *
+     * @param \Gh\SimpleShopBundle\Entity\Product $products
+     * @return Category
+     */
+    public function addProduct(\Gh\SimpleShopBundle\Entity\Product $products)
+    {
+        $this->products[] = $products;
+    
+        return $this;
+    }
+
+    /**
+     * Remove products
+     *
+     * @param \Gh\SimpleShopBundle\Entity\Product $products
+     */
+    public function removeProduct(\Gh\SimpleShopBundle\Entity\Product $products)
+    {
+        $this->products->removeElement($products);
+    }
+
+    /**
+     * Get products
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getProducts()
+    {
+        return $this->products;
+    }
+
+    /**
+     * Set parent
+     *
+     * @param \Gh\SimpleShopBundle\Entity\Category $parent
+     * @return Category
+     */
+    public function setParent(\Gh\SimpleShopBundle\Entity\Category $parent = null)
+    {
+        $this->parent = $parent;
+    
+        return $this;
+    }
+
+    /**
+     * Get parent
+     *
+     * @return \Gh\SimpleShopBundle\Entity\Category 
+     */
+    public function getParent()
+    {
+        return $this->parent;
+    }
+
+    /**
+     * Add children
+     *
+     * @param \Gh\SimpleShopBundle\Entity\Category $children
+     * @return Category
+     */
+    public function addChildren(\Gh\SimpleShopBundle\Entity\Category $children)
+    {
+        $this->children[] = $children;
+    
+        return $this;
+    }
+
+    /**
+     * Remove children
+     *
+     * @param \Gh\SimpleShopBundle\Entity\Category $children
+     */
+    public function removeChildren(\Gh\SimpleShopBundle\Entity\Category $children)
+    {
+        $this->children->removeElement($children);
+    }
+
+    /**
+     * Get children
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getChildren()
+    {
+        return $this->children;
     }
 }

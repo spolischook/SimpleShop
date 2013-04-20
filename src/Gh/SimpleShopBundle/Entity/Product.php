@@ -3,12 +3,11 @@
 namespace Gh\SimpleShopBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
-use JMS\Serializer\Annotation\SerializedName;
 
 /**
  * Product
  *
- * @ORM\Table()
+ * @ORM\Table(name="product")
  * @ORM\Entity
  */
 class Product
@@ -46,14 +45,14 @@ class Product
     /**
      * @var integer
      *
-     * @ORM\Column(name="priceIn", type="integer")
+     * @ORM\Column(name="priceIn", type="decimal", precision=10, scale=2)
      */
     private $priceIn;
 
     /**
      * @var integer
      *
-     * @ORM\Column(name="priceOut", type="integer")
+     * @ORM\Column(name="priceOut", type="decimal", precision=10, scale=2)
      */
     private $priceOut;
 
@@ -77,6 +76,9 @@ class Product
      * @ORM\Column(name="partNumber", type="string", length=255)
      */
     private $partNumber;
+
+    /** @ORM\ManyToOne(targetEntity="Category", inversedBy="products") */
+    private $category;
 
 
     /**
@@ -271,5 +273,29 @@ class Product
     public function getPartNumber()
     {
         return $this->partNumber;
+    }
+
+    /**
+     * Set category
+     *
+     * @param \Gh\SimpleShopBundle\Entity\Category $category
+     * @return Product
+     */
+    public function setCategory(\Gh\SimpleShopBundle\Entity\Category $category = null)
+    {
+        $this->category = $category;
+        $category->addProduct($this);
+    
+        return $this;
+    }
+
+    /**
+     * Get category
+     *
+     * @return \Gh\SimpleShopBundle\Entity\Category 
+     */
+    public function getCategory()
+    {
+        return $this->category;
     }
 }
