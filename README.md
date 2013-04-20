@@ -16,6 +16,8 @@ step1  - Create SimpleShopBundle and view HelloWorld!!!
 step2  - Install bootstrap and update template
 step3  - Import simple price in controller, and view it in template
 step4  - Now we can import price from command line with import:price command
+step5  - Create an API. Now we can get 10 products per page from   /api/products/[page]
+            and all products from category (using id category)     api/categories/[category_id]/products
 
 Installing project
 ----------------------------------
