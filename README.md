@@ -12,9 +12,10 @@ The master branch have a working project, however you can see how project are gr
 So...
 
 step0  - Jast istalled Symfony2.2
-step1  -
-step2
+step1  - Create SimpleShopBundle and view HelloWorld!!!
+step2  - Install bootstrap and update template
 step3  - Import simple price in controller, and view it in template
+step4  - Now we can import price from command line with import:price command
 
 Installing project
 ----------------------------------
