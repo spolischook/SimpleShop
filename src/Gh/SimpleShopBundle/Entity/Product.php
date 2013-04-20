@@ -3,6 +3,8 @@
 namespace Gh\SimpleShopBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
+use JMS\Serializer\Annotation\Type;
+use JMS\Serializer\Annotation\Accessor;
 
 /**
  * Product
@@ -77,7 +79,11 @@ class Product
      */
     private $partNumber;
 
-    /** @ORM\ManyToOne(targetEntity="Category", inversedBy="products") */
+    /**
+     * @Type("string")
+     * @Accessor(getter="getCategoryName")
+     * @ORM\ManyToOne(targetEntity="Category", inversedBy="products")
+     */
     private $category;
 
 
@@ -297,5 +303,10 @@ class Product
     public function getCategory()
     {
         return $this->category;
+    }
+
+    public function getCategoryName()
+    {
+        return $this->category->getName();
     }
 }
