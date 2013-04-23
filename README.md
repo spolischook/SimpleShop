@@ -11,7 +11,7 @@ Anonymous can access to public API
 The master branch have a working project, however you can see how project are grow with step** branch.
 So...
 
-step0  - Jast istalled Symfony2.2
+step0  - Just installed Symfony2.2
 step1  - Create SimpleShopBundle and view HelloWorld!!!
 step2  - Install bootstrap and update template
 step3  - Import simple price in controller, and view it in template
@@ -19,6 +19,7 @@ step4  - Now we can import price from command line with import:price command
 step5  - Create an API. Now we can get 10 products per page from   /api/products/[page]
             and all products from category (using id category)     api/categories/[category_id]/products
 step6  - Create backend admin panel for CRUD for Product && Category entity
+step7  - Create Behat tests, and include travis-ci.
 
 Installing project
 ----------------------------------
@@ -69,7 +70,11 @@ You have to access your project with:
 Tests
 -------------------------------------
 
-Coming soon...
+First of all you must edit the begat.yml. Write your base url for test env.
+Then you can run the tests by type in console:
+``` bash
+    vendor/behat/behat/bin/behat @SimpleShopBundle
+```
 
 Bug tracking
 ------------
