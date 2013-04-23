@@ -1,270 +1,273 @@
-<node kod="88003" isgroup="1">
-    <name>РћРџРђР›Р•РќРќРЇ, Р‘РћР™Р›Р•Р Р, Р РђР”Р†РђРўРћР Р</name>
-    <name_ru>РћРџРђР›Р•РќРќРЇ, Р‘РћР™Р›Р•Р Р, Р РђР”Р†РђРўРћР Р</name_ru>
-    <node kod="88270" isgroup="1">
-        <name>Р‘РћР™Р›Р•Р Р Р•Р›Р•РљРўР РР§РќР† (ARISTON, FEROLLI, ELECTROLUX)</name>
-        <name_ru>Р‘РћР™Р›Р•Р Р Р•Р›Р•РљРўР РР§РќР† (ARISTON, FEROLLI, ELECTROLUX)</name_ru>
-        <node kod="88291" isgroup="0" garant="0" cena_dyler="130" cena_gurt="150" cena_dribnyj_gurt="150" cena_rozdrib="160" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-            <name>Р‘РѕР№Р»РµСЂ Ariston SG R 15 OR</name>
-            <name_ru>Р‘РѕР№Р»РµСЂ Ariston SG R 15 OR</name_ru>
-            <fullname>Р‘РѕР№Р»РµСЂ Ariston SG R 15 OR РєРѕРґ РЈРљРўР—Р•Р”  8516101900</fullname>
-            <partnumber/>
-            <manufacturer>ARISTON</manufacturer>
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+    <node kod="88003" isgroup="1">
+        <name>ОПАЛЕННЯ, БОЙЛЕРИ, РАДІАТОРИ</name>
+        <name_ru>ОПАЛЕННЯ, БОЙЛЕРИ, РАДІАТОРИ</name_ru>
+        <node kod="88270" isgroup="1">
+            <name>БОЙЛЕРИ ЕЛЕКТРИЧНІ (ARISTON, FEROLLI, ELECTROLUX)</name>
+            <name_ru>БОЙЛЕРИ ЕЛЕКТРИЧНІ (ARISTON, FEROLLI, ELECTROLUX)</name_ru>
+            <node kod="88291" isgroup="0" garant="0" cena_dyler="130" cena_gurt="150" cena_dribnyj_gurt="150" cena_rozdrib="160" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                <name>Бойлер Ariston SG R 15 OR</name>
+                <name_ru>Бойлер Ariston SG R 15 OR</name_ru>
+                <fullname>Бойлер Ariston SG R 15 OR код УКТЗЕД  8516101900</fullname>
+                <partnumber/>
+                <manufacturer>ARISTON</manufacturer>
+            </node>
+            <node kod="88292" isgroup="0" garant="0" cena_dyler="130" cena_gurt="150" cena_dribnyj_gurt="150" cena_rozdrib="160" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                <name>Бойлер Ariston SG R 15 UR</name>
+                <name_ru>Бойлер Ariston SG R 15 UR</name_ru>
+                <fullname>Бойлер Ariston SG R 15 UR код УКТЗЕД  8516101900</fullname>
+                <partnumber/>
+                <manufacturer>ARISTON</manufacturer>
+            </node>
+            <node kod="87320" isgroup="0" garant="24" cena_dyler="146" cena_gurt="148" cena_dribnyj_gurt="151" cena_rozdrib="169" ostatok_lviv="0" ostatok_kyyiv="1" ostatok_odesa="0">
+                <name>Бойлер Electrolux EWH 100 Quantum</name>
+                <name_ru>Бойлер Electrolux EWH 100 Quantum</name_ru>
+                <fullname>Бойлер Electrolux EWH 100 Quantum Кол-во/ мощность нагревательных эл-ов:1 x 1500 Вт. Подключение: 220 В. Емкость: 100 л. Диапазон рабочих температур: 30-70 °С. Автоматический контроль температуры. Защита от сухого нагрева. Защита от перегрева. Защита от превышающего норму давления. Габариты: 886х450х450 мм.</fullname>
+                <partnumber>EWH 100</partnumber>
+                <manufacturer>Electrolux</manufacturer>
+            </node>
+            <node kod="87321" isgroup="0" garant="24" cena_dyler="115" cena_gurt="117" cena_dribnyj_gurt="120" cena_rozdrib="145" ostatok_lviv="0" ostatok_kyyiv="1" ostatok_odesa="0">
+                <name>Бойлер Electrolux EWH 50 Quantum</name>
+                <name_ru>Бойлер Electrolux EWH 50 Quantum</name_ru>
+                <fullname>Бойлер Electrolux EWH 50 Quantum Тип водонагревателя накопительный 	   Способ нагрева	электрический 	   Нагревательный элемент	трубчатый 	   Объем емкости для воды	50 л 	   Способ подачи воды напорный</fullname>
+                <partnumber>EWH 50 Quantum</partnumber>
+                <manufacturer>Electrolux</manufacturer>
+            </node>
+            <node kod="90029" isgroup="0" garant="24" cena_dyler="129" cena_gurt="131" cena_dribnyj_gurt="134" cena_rozdrib="145" ostatok_lviv="0" ostatok_kyyiv="1" ostatok_odesa="0">
+                <name>Бойлер Electrolux EWH 50 Quantum Slim</name>
+                <name_ru>Бойлер Electrolux EWH 50 Quantum Slim</name_ru>
+                <fullname>Бойлер Electrolux EWH 50 Quantum Slim Водонагреватели Electrolux EWH "QUANTUM" обладают всеми достоинствами баков "Electrolux" и являются надежными и незаменимыми помощниками в быту.</fullname>
+                <partnumber>EWH 50</partnumber>
+                <manufacturer>Electrolux</manufacturer>
+            </node>
+            <node kod="87322" isgroup="0" garant="24" cena_dyler="125" cena_gurt="127" cena_dribnyj_gurt="131" cena_rozdrib="155" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                <name>Бойлер Electrolux EWH 80 Quantum</name>
+                <name_ru>Бойлер Electrolux EWH 80 Quantum</name_ru>
+                <fullname>Бойлер Electrolux EWH 80 Quantum Кол-во/ мощность нагревательных эл-ов:1 x 1500 Вт. Подключение: 220 В. Емкость: 80 л. Диапазон рабочих температур: 30-70 °С. Автоматический контроль температуры. Защита от сухого нагрева. Защита от перегрева. Защита от превышающего норму давления. Габариты: 736х450х450 мм.</fullname>
+                <partnumber>EWH 80</partnumber>
+                <manufacturer>Electrolux</manufacturer>
+            </node>
+            <node kod="87890" isgroup="0" garant="24" cena_dyler="159" cena_gurt="161" cena_dribnyj_gurt="165" cena_rozdrib="180" ostatok_lviv="0" ostatok_kyyiv="1" ostatok_odesa="0">
+                <name>Водонагрівач Electrolux EWH 80 Quantum Slim</name>
+                <name_ru>Водонагреватель Electrolux EWH 80 Quantum Slim</name_ru>
+                <fullname>Водонагреватель Electrolux EWH 80 Quantum Slim накопительный, электрический, объём 80 л, напорный, номинальная мощность 1.5 кВт, нагрев воды до +75°С, габариты (ШхВхГ): 385x995x385 мм, вес: 27.3 кг </fullname>
+                <partnumber>EWH 80 Quantum Slim</partnumber>
+                <manufacturer>Electrolux</manufacturer>
+            </node>
         </node>
-        <node kod="88292" isgroup="0" garant="0" cena_dyler="130" cena_gurt="150" cena_dribnyj_gurt="150" cena_rozdrib="160" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-            <name>Р‘РѕР№Р»РµСЂ Ariston SG R 15 UR</name>
-            <name_ru>Р‘РѕР№Р»РµСЂ Ariston SG R 15 UR</name_ru>
-            <fullname>Р‘РѕР№Р»РµСЂ Ariston SG R 15 UR РєРѕРґ РЈРљРўР—Р•Р”  8516101900</fullname>
-            <partnumber/>
-            <manufacturer>ARISTON</manufacturer>
+        <node kod="88343" isgroup="1">
+            <name>FERROLI</name>
+            <name_ru>FERROLI</name_ru>
+            <node kod="88346" isgroup="0" garant="0" cena_dyler="31" cena_gurt="35" cena_dribnyj_gurt="38" cena_rozdrib="40" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                <name>Колектор для котла Колектор димовидалення для турбокотлів Feroli</name>
+                <name_ru>Коллектор для котла Коллектор дымоудаления для турбо котлов Ferroli</name_ru>
+                <fullname>Коллектор для котла Коллектор дымоудаления для турбо котлов Ferroli Коллектор дымоудаления для турбо котлов Ferroli</fullname>
+                <partnumber/>
+                <manufacturer>Ferroli</manufacturer>
+            </node>
+            <node kod="88354" isgroup="0" garant="0" cena_dyler="445" cena_gurt="455" cena_dribnyj_gurt="465" cena_rozdrib="500" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                <name>Котел Ferroli DOMIproject C 24</name>
+                <name_ru>Котёл Ferroli DOMIproject C 24</name_ru>
+                <fullname>Котёл Ferroli DOMIproject C 24 КПД 91 %  Производительность 13.4 л /мин  Мощность 23.5 кВт  Давление на входе в контуре отопления - до 3 бар, давление водоснабжения - 0,25-9 бар  Площадь обогрева до 240 кв.м  Температурный диапазон в системе Отопления/ГВС  30-90 / 40-65 °С  Расход топлива  2,73 кг /час</fullname>
+                <partnumber/>
+                <manufacturer>Ferroli</manufacturer>
+            </node>
+            <node kod="88356" isgroup="0" garant="0" cena_dyler="485" cena_gurt="495" cena_dribnyj_gurt="520" cena_rozdrib="540" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                <name>Котел Ferroli DOMIproject F 24</name>
+                <name_ru>Котёл Ferroli DOMIproject F 24</name_ru>
+                <fullname>Котёл Ferroli DOMIproject F 24 КПД 89.7 %  Производительность 13,7 л /мин  Мощность 24 кВт  Давление на входе в контуре отопления - до 3 бар, давление водоснабжения - 0,25-9 бар  Площадь обогрева  до 240 кв.м  Температурный диапазон в системе Отопления/ГВС  30-90 / 40-65 °С  Расход топлива 2,73 кг /час</fullname>
+                <partnumber/>
+                <manufacturer>Ferroli</manufacturer>
+            </node>
         </node>
-        <node kod="87320" isgroup="0" garant="24" cena_dyler="146" cena_gurt="148" cena_dribnyj_gurt="151" cena_rozdrib="169" ostatok_lviv="0" ostatok_kyyiv="1" ostatok_odesa="0">
-            <name>Р‘РѕР№Р»РµСЂ Electrolux EWH 100 Quantum</name>
-            <name_ru>Р‘РѕР№Р»РµСЂ Electrolux EWH 100 Quantum</name_ru>
-            <fullname>Р‘РѕР№Р»РµСЂ Electrolux EWH 100 Quantum РљРѕР»-РІРѕ/ РјРѕС‰РЅРѕСЃС‚СЊ РЅР°РіСЂРµРІР°С‚РµР»СЊРЅС‹С… СЌР»-РѕРІ:1 x 1500 Р’С‚. РџРѕРґРєР»СЋС‡РµРЅРёРµ: 220 Р’. Р•РјРєРѕСЃС‚СЊ: 100 Р». Р”РёР°РїР°Р·РѕРЅ СЂР°Р±РѕС‡РёС… С‚РµРјРїРµСЂР°С‚СѓСЂ: 30-70 В°РЎ. РђРІС‚РѕРјР°С‚РёС‡РµСЃРєРёР№ РєРѕРЅС‚СЂРѕР»СЊ С‚РµРјРїРµСЂР°С‚СѓСЂС‹. Р—Р°С‰РёС‚Р° РѕС‚ СЃСѓС…РѕРіРѕ РЅР°РіСЂРµРІР°. Р—Р°С‰РёС‚Р° РѕС‚ РїРµСЂРµРіСЂРµРІР°. Р—Р°С‰РёС‚Р° РѕС‚ РїСЂРµРІС‹С€Р°СЋС‰РµРіРѕ РЅРѕСЂРјСѓ РґР°РІР»РµРЅРёСЏ. Р“Р°Р±Р°СЂРёС‚С‹: 886С…450С…450 РјРј.</fullname>
-            <partnumber>EWH 100</partnumber>
-            <manufacturer>Electrolux</manufacturer>
+        <node kod="88829" isgroup="1">
+            <name>АЛЮМНІІЄВІ РАДІАТОРИ</name>
+            <name_ru>АЛЮМНІІЄВІ РАДІАТОРИ</name_ru>
+            <node kod="88830" isgroup="0" garant="12" cena_dyler="8" cena_gurt="8.5" cena_dribnyj_gurt="9" cena_rozdrib="9.1" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                <name>Радиатор алюмінієвий GRESSO (Mirado) 500/85, 16 атм.</name>
+                <name_ru>Радиатор алюмінієвий GRESSO (Mirado) 500/85, 16 атм.</name_ru>
+                <fullname>Радиатор алюмінієвий GRESSO 500/85, 16 атм.</fullname>
+                <partnumber/>
+                <manufacturer>Украина</manufacturer>
+            </node>
+            <node kod="88831" isgroup="0" garant="12" cena_dyler="8.1" cena_gurt="8.3" cena_dribnyj_gurt="8.5" cena_rozdrib="9" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                <name>Радіатор алюмінієвий біметалічний GRESSO (Mi 500/85, 30 атм.</name>
+                <name_ru>Радіатор алюмінієвий біметалічний GRESSO (Mi 500/85, 30 атм.</name_ru>
+                <fullname>Радіатор алюмінієвий біметалічний GRESSO 500/85, 30 атм.</fullname>
+                <partnumber/>
+                <manufacturer>Украина</manufacturer>
+            </node>
         </node>
-        <node kod="87321" isgroup="0" garant="24" cena_dyler="115" cena_gurt="117" cena_dribnyj_gurt="120" cena_rozdrib="145" ostatok_lviv="0" ostatok_kyyiv="1" ostatok_odesa="0">
-            <name>Р‘РѕР№Р»РµСЂ Electrolux EWH 50 Quantum</name>
-            <name_ru>Р‘РѕР№Р»РµСЂ Electrolux EWH 50 Quantum</name_ru>
-            <fullname>Р‘РѕР№Р»РµСЂ Electrolux EWH 50 Quantum РўРёРї РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЏ РЅР°РєРѕРїРёС‚РµР»СЊРЅС‹Р№ 	   РЎРїРѕСЃРѕР± РЅР°РіСЂРµРІР°	СЌР»РµРєС‚СЂРёС‡РµСЃРєРёР№ 	   РќР°РіСЂРµРІР°С‚РµР»СЊРЅС‹Р№ СЌР»РµРјРµРЅС‚	С‚СЂСѓР±С‡Р°С‚С‹Р№ 	   РћР±СЉРµРј РµРјРєРѕСЃС‚Рё РґР»СЏ РІРѕРґС‹	50 Р» 	   РЎРїРѕСЃРѕР± РїРѕРґР°С‡Рё РІРѕРґС‹ РЅР°РїРѕСЂРЅС‹Р№</fullname>
-            <partnumber>EWH 50 Quantum</partnumber>
-            <manufacturer>Electrolux</manufacturer>
-        </node>
-        <node kod="90029" isgroup="0" garant="24" cena_dyler="129" cena_gurt="131" cena_dribnyj_gurt="134" cena_rozdrib="145" ostatok_lviv="0" ostatok_kyyiv="1" ostatok_odesa="0">
-            <name>Р‘РѕР№Р»РµСЂ Electrolux EWH 50 Quantum Slim</name>
-            <name_ru>Р‘РѕР№Р»РµСЂ Electrolux EWH 50 Quantum Slim</name_ru>
-            <fullname>Р‘РѕР№Р»РµСЂ Electrolux EWH 50 Quantum Slim Р’РѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»Рё Electrolux EWH "QUANTUM" РѕР±Р»Р°РґР°СЋС‚ РІСЃРµРјРё РґРѕСЃС‚РѕРёРЅСЃС‚РІР°РјРё Р±Р°РєРѕРІ "Electrolux" Рё СЏРІР»СЏСЋС‚СЃСЏ РЅР°РґРµР¶РЅС‹РјРё Рё РЅРµР·Р°РјРµРЅРёРјС‹РјРё РїРѕРјРѕС‰РЅРёРєР°РјРё РІ Р±С‹С‚Сѓ.</fullname>
-            <partnumber>EWH 50</partnumber>
-            <manufacturer>Electrolux</manufacturer>
-        </node>
-        <node kod="87322" isgroup="0" garant="24" cena_dyler="125" cena_gurt="127" cena_dribnyj_gurt="131" cena_rozdrib="155" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-            <name>Р‘РѕР№Р»РµСЂ Electrolux EWH 80 Quantum</name>
-            <name_ru>Р‘РѕР№Р»РµСЂ Electrolux EWH 80 Quantum</name_ru>
-            <fullname>Р‘РѕР№Р»РµСЂ Electrolux EWH 80 Quantum РљРѕР»-РІРѕ/ РјРѕС‰РЅРѕСЃС‚СЊ РЅР°РіСЂРµРІР°С‚РµР»СЊРЅС‹С… СЌР»-РѕРІ:1 x 1500 Р’С‚. РџРѕРґРєР»СЋС‡РµРЅРёРµ: 220 Р’. Р•РјРєРѕСЃС‚СЊ: 80 Р». Р”РёР°РїР°Р·РѕРЅ СЂР°Р±РѕС‡РёС… С‚РµРјРїРµСЂР°С‚СѓСЂ: 30-70 В°РЎ. РђРІС‚РѕРјР°С‚РёС‡РµСЃРєРёР№ РєРѕРЅС‚СЂРѕР»СЊ С‚РµРјРїРµСЂР°С‚СѓСЂС‹. Р—Р°С‰РёС‚Р° РѕС‚ СЃСѓС…РѕРіРѕ РЅР°РіСЂРµРІР°. Р—Р°С‰РёС‚Р° РѕС‚ РїРµСЂРµРіСЂРµРІР°. Р—Р°С‰РёС‚Р° РѕС‚ РїСЂРµРІС‹С€Р°СЋС‰РµРіРѕ РЅРѕСЂРјСѓ РґР°РІР»РµРЅРёСЏ. Р“Р°Р±Р°СЂРёС‚С‹: 736С…450С…450 РјРј.</fullname>
-            <partnumber>EWH 80</partnumber>
-            <manufacturer>Electrolux</manufacturer>
-        </node>
-        <node kod="87890" isgroup="0" garant="24" cena_dyler="159" cena_gurt="161" cena_dribnyj_gurt="165" cena_rozdrib="180" ostatok_lviv="0" ostatok_kyyiv="1" ostatok_odesa="0">
-            <name>Р’РѕРґРѕРЅР°РіСЂС–РІР°С‡ Electrolux EWH 80 Quantum Slim</name>
-            <name_ru>Р’РѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Electrolux EWH 80 Quantum Slim</name_ru>
-            <fullname>Р’РѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Electrolux EWH 80 Quantum Slim РЅР°РєРѕРїРёС‚РµР»СЊРЅС‹Р№, СЌР»РµРєС‚СЂРёС‡РµСЃРєРёР№, РѕР±СЉС‘Рј 80 Р», РЅР°РїРѕСЂРЅС‹Р№, РЅРѕРјРёРЅР°Р»СЊРЅР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ 1.5 РєР’С‚, РЅР°РіСЂРµРІ РІРѕРґС‹ РґРѕ +75В°РЎ, РіР°Р±Р°СЂРёС‚С‹ (РЁС…Р’С…Р“): 385x995x385 РјРј, РІРµСЃ: 27.3 РєРі </fullname>
-            <partnumber>EWH 80 Quantum Slim</partnumber>
-            <manufacturer>Electrolux</manufacturer>
+        <node kod="88004" isgroup="1">
+            <name>BERETTA</name>
+            <name_ru>BERETTA</name_ru>
+            <node kod="88205" isgroup="1">
+                <name>НАСТІННІ ГАЗОВІ КОТЛИ</name>
+                <name_ru>НАСТІННІ ГАЗОВІ КОТЛИ</name_ru>
+                <node kod="88214" isgroup="0" garant="12" cena_dyler="455" cena_gurt="460" cena_dribnyj_gurt="465" cena_rozdrib="470" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Котел Beretta Ciao 24 CAI</name>
+                    <name_ru>Котёл Beretta Ciao 24 CAI</name_ru>
+                    <fullname>Котёл Beretta Ciao 24 CAI Настенный газовый двухконтурный котел CIAO предназначен для отопления и горячего водоснабжения помещений различного назначения. Открытая камера сгорания. Мощность, кВт: 9-23,8. Производительность ?Т=25°С л/мин: 13,6. КПД %: 90,2. Расход газа, м3 /ч: 2,82. Размеры, мм: 740х400х328</fullname>
+                    <partnumber>20013791</partnumber>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="88218" isgroup="0" garant="12" cena_dyler="455" cena_gurt="460" cena_dribnyj_gurt="465" cena_rozdrib="470" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Котел Beretta Ciao 24 CSI</name>
+                    <name_ru>Котёл Beretta Ciao 24 CSI</name_ru>
+                    <fullname>Котёл Beretta Ciao 24 CSI Настенный газовый двухконтурный котел CIAO предназначен для отопления и горячего водоснабжения помещений различного назначения. Открытая камера сгорания. Мощность, кВт: 9-24. Производительность ?Т=25°С л/мин: 13,8. КПД %: 90,2. Расход газа, м3 /ч: 2,78. Размеры, мм: 740х400х32</fullname>
+                    <partnumber>20011572</partnumber>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="88219" isgroup="0" garant="12" cena_dyler="550" cena_gurt="560" cena_dribnyj_gurt="570" cena_rozdrib="650" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Котел Beretta Ciao 28 CAI</name>
+                    <name_ru>Котёл Beretta Ciao 28 CAI</name_ru>
+                    <fullname>Котёл Beretta Ciao 28 CAI Настенный газовый двухконтурный котел CIAO предназначен для отопления и горячего водоснабжения помещений различного назначения. Открытая камера сгорания. Мощность, кВт: 8,9-28,5. Производительность ?Т=25°С л/мин: 16,3. КПД %: 89,3. Расход газа, м3 /ч: 3,37. Размеры, мм: 740х450х328</fullname>
+                    <partnumber>2410213</partnumber>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="88220" isgroup="0" garant="12" cena_dyler="550" cena_gurt="560" cena_dribnyj_gurt="570" cena_rozdrib="650" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Котел Beretta Ciao 28 CSI</name>
+                    <name_ru>Котёл Beretta Ciao 28 CSI</name_ru>
+                    <fullname>Котёл Beretta Ciao 28 CSI Настенный газовый двухконтурный котел CIAO предназначен для отопления и горячего водоснабжения помещений различного назначения. Закрытая камера сгорания. Мощность, кВт: 8,7-28. Производительность ?Т=25°С л/мин: 16,1. КПД %: 91,3. Расход газа, м3 /ч: 3,28. Размеры, мм: 740х450х338</fullname>
+                    <partnumber>2410233</partnumber>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="88221" isgroup="0" garant="12" cena_dyler="490" cena_gurt="500" cena_dribnyj_gurt="510" cena_rozdrib="520" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Котел Beretta City 24 CAI</name>
+                    <name_ru>Котёл Beretta City 24 CAI</name_ru>
+                    <fullname>Котёл Beretta City 24 CAI Настенный газовый двухконтурный котел CITY предназначен для отопления и горячего водоснабжения помещений различного назначения. Открытая камера сгорания. Мощность, кВт: 9-23,8. Производительность ?Т=25°С л/мин: 13,6. КПД %: 91,2. Расход газа, м3 /ч: 2,78. Размеры, мм: 740х450х332</fullname>
+                    <partnumber>2410312</partnumber>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="88224" isgroup="0" garant="12" cena_dyler="490" cena_gurt="500" cena_dribnyj_gurt="510" cena_rozdrib="520" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Котел Beretta City 24 CSI</name>
+                    <name_ru>Котёл Beretta City 24 CSI</name_ru>
+                    <fullname>Котёл Beretta City 24 CSI Настенный газовый двухконтурный котел CITY предназначен для отопления и горячего водоснабжения помещений различного назначения. Закрытая камера сгорания. Мощность, кВт: 8,2-24. Производительность ?Т=25°С л/мин: 13,8. КПД %: 91,2. Расход газа, м3 /ч: 2,78. Размеры, мм: 740х400х332</fullname>
+                    <partnumber>2410323</partnumber>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="88227" isgroup="0" garant="12" cena_dyler="500" cena_gurt="520" cena_dribnyj_gurt="540" cena_rozdrib="560" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Котел Beretta City 24 RSI</name>
+                    <name_ru>Котёл Beretta City 24 RSI</name_ru>
+                    <fullname>Котёл Beretta City 24 RSI Настенный газовый двухконтурный котел CITY предназначен для отопления и горячего водоснабжения помещений различного назначения. Открытая камера сгорания. Мощность, кВт: 24. КПД %: 91,8. Расход газа, м3 /ч: 2.73. Размеры, мм: 740х400х332</fullname>
+                    <partnumber>20024740</partnumber>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="92743" isgroup="0" garant="12" cena_dyler="575" cena_gurt="590" cena_dribnyj_gurt="600" cena_rozdrib="620" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Котел Beretta City 28 CSI</name>
+                    <name_ru>Котёл Beretta City 28 CSI</name_ru>
+                    <fullname>Котёл Beretta City 28 CSI Настенный газовый двухконтурный котел CITY предназначен для отопления и горячего водоснабжения помещений различного назначения. Закрытая камера сгорания. Мощность, кВт: 30,5. Производительность ?Т=25°С л/мин: 16.3. Расход газа, м3 /ч: 3,23. Размеры, мм: 740х450х332</fullname>
+                    <partnumber>20049590</partnumber>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="92744" isgroup="0" garant="0" cena_dyler="575" cena_gurt="590" cena_dribnyj_gurt="600" cena_rozdrib="620" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Котел Beretta City 28 CАI</name>
+                    <name_ru>Котёл Beretta City 28 CАI</name_ru>
+                    <fullname>Котёл Beretta City 28 CАI Настенный газовый двухконтурный котел CITY предназначен для отопления и горячего водоснабжения помещений различного назначения. Открытая камера сгорания. Мощность, кВт: 31.9. Производительность ?Т=25°С л/мин: 16.6. КПД %: 91,2. Расход газа, м3 /ч: 3.37. Размеры, мм: 740х450х332</fullname>
+                    <partnumber/>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="92746" isgroup="0" garant="0" cena_dyler="555" cena_gurt="580" cena_dribnyj_gurt="580" cena_rozdrib="650" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Котел Beretta City 28 RSI</name>
+                    <name_ru>Котёл Beretta City 28 RSI</name_ru>
+                    <fullname>Котёл Beretta City 28 RSI Настенный газовый двухконтурный котел CITY предназначен для отопления и горячего водоснабжения помещений различного назначения. Открытая камера сгорания. Мощность, кВт: 30.5. КПД %: 90,8. Расход газа, м3 /ч: 3.23. Размеры, мм: 740х400х332</fullname>
+                    <partnumber/>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="92748" isgroup="0" garant="12" cena_dyler="555" cena_gurt="570" cena_dribnyj_gurt="580" cena_rozdrib="600" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Котел Beretta City 28 RАI</name>
+                    <name_ru>Котёл Beretta City 28 RАI</name_ru>
+                    <fullname>Котёл Beretta City 28 RАI Настенный газовый двухконтурный котел CITY предназначен для отопления и горячего водоснабжения помещений различного назначения. Открытая камера сгорания. Мощность, кВт: 31.9. Расход газа, м3 /ч: 3.37. Размеры, мм: 740х450х332</fullname>
+                    <partnumber>20049743 </partnumber>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="92745" isgroup="0" garant="12" cena_dyler="710" cena_gurt="750" cena_dribnyj_gurt="770" cena_rozdrib="800" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Котел Beretta City 35 CSI</name>
+                    <name_ru>Котёл Beretta City 35 CSI</name_ru>
+                    <fullname>Котёл Beretta City 35 CSI Настенный газовый двухконтурный котел CITY предназначен для отопления и горячего водоснабжения помещений различного назначения. Закрытая камера сгорания. Мощность, кВт: 37.6. Производительность ?Т=25°С л/мин: 20. Расход газа, м3 /ч: 3.98. Размеры, мм: 780х500х342</fullname>
+                    <partnumber>20049747</partnumber>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+            </node>
+            <node kod="88135" isgroup="1">
+                <name>ГАЗОВІ КОЛОНКИ</name>
+                <name_ru>ГАЗОВІ КОЛОНКИ</name_ru>
+                <node kod="88139" isgroup="0" garant="12" cena_dyler="157" cena_gurt="165" cena_dribnyj_gurt="170" cena_rozdrib="185" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Колонка, водонагрівач Beretta Idrabagno 11 AQUA</name>
+                    <name_ru>Колонка, водонагреватель Beretta Idrabagno 11 AQUA</name_ru>
+                    <fullname>Колонка, водонагреватель Beretta Idrabagno 11 AQUA Газовый проточный водонагреватель с пьезорозжигом. Номинальная тепловая мощность: 21,8 кВт. Макс. расход газа: 2.2 м?/ч. Производительность: 11 л/мин. Устройство контроля тяги. Плавная регулировка мощности в зависимости от расхода воды через водонагреватель. Независимость от внешних источников питания.</fullname>
+                    <partnumber/>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="88141" isgroup="0" garant="0" cena_dyler="205" cena_gurt="255" cena_dribnyj_gurt="270" cena_rozdrib="300" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Колонка, водонагрівач Beretta Idrabagno 11i AQUA</name>
+                    <name_ru>Колонка, водонагреватель Beretta Idrabagno 11i AQUA</name_ru>
+                    <fullname>Колонка, водонагреватель Beretta Idrabagno 11i AQUA Газовый проточный водонагреватель с автоматическим электророзжигом. Номинальная тепловая мощность: 18 кВт. Производительность: 11 л/мин. Устройство контроля тяги. Плавная регулировка мощности в зависимости от расхода воды через водонагреватель. Независимость от внешних источников питания</fullname>
+                    <partnumber/>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="88142" isgroup="0" garant="0" cena_dyler="390" cena_gurt="398" cena_dribnyj_gurt="410" cena_rozdrib="440" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Колонка, водонагрівач Beretta Idrabagno 13 ESI</name>
+                    <name_ru>Колонка, водонагреватель Beretta Idrabagno 13 ESI</name_ru>
+                    <fullname>Колонка, водонагреватель Beretta Idrabagno 13 ESI Газовый проточный водонагреватель с закрытой камерой сгорания. Мощность, кВт: 22,5. Производительность 8 л/мин. Плавная регулировка мощности. Автоматический электророзжиг.</fullname>
+                    <partnumber>1100173</partnumber>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="88144" isgroup="0" garant="0" cena_dyler="200" cena_gurt="205" cena_dribnyj_gurt="215" cena_rozdrib="235" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Колонка, водонагрівач Beretta Idrabagno 14 AQUA</name>
+                    <name_ru>Колонка, водонагреватель Beretta Idrabagno 14 AQUA</name_ru>
+                    <fullname>Колонка, водонагреватель Beretta Idrabagno 14 AQUA Газовый проточный водонагреватель с пьезорозжигом. Номинальная тепловая мощность: 27,2 кВт. Производительность: 14 л/мин. Устройство контроля тяги. Плавная регулировка мощности в зависимости от расхода воды через водонагреватель. Независимость от внешних источников питания.</fullname>
+                    <partnumber/>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="88146" isgroup="0" garant="0" cena_dyler="268" cena_gurt="275" cena_dribnyj_gurt="288" cena_rozdrib="309" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Колонка, водонагрівач Beretta Idrabagno 14i AQUA</name>
+                    <name_ru>Колонка, водонагреватель Beretta Idrabagno 14i AQUA</name_ru>
+                    <fullname>Колонка, водонагреватель Beretta Idrabagno 14i AQUA Газовый проточный водонагреватель с автоматическим электророзжигом. Номинальная тепловая мощность: 21,8 кВт. Производительность: 14 л/мин. Устройство контроля тяги. Плавная регулировка мощности в зависимости от расхода воды через водонагреватель. Независимость от внешних источников питания</fullname>
+                    <partnumber/>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="92750" isgroup="0" garant="12" cena_dyler="270" cena_gurt="290" cena_dribnyj_gurt="300" cena_rozdrib="330" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Колонка, водонагрівач Beretta Idrabagno 17 AQUA</name>
+                    <name_ru>Колонка, водонагреватель Beretta Idrabagno 17 AQUA</name_ru>
+                    <fullname>Колонка, водонагреватель Beretta Idrabagno 17 AQUA Газовый проточный водонагреватель с пьезорозжигом. Номинальная тепловая мощность: 29,5 кВт. Производительность: 17 л/мин. Устройство контроля тяги. Плавная регулировка мощности в зависимости от расхода воды через водонагреватель. Независимость от внешних источников питания.</fullname>
+                    <partnumber/>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="88148" isgroup="0" garant="0" cena_dyler="430" cena_gurt="450" cena_dribnyj_gurt="470" cena_rozdrib="500" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Колонка, водонагрівач Beretta Idrabagno 17 ESI</name>
+                    <name_ru>Колонка, водонагреватель Beretta Idrabagno 17 ESI</name_ru>
+                    <fullname>Колонка, водонагреватель Beretta Idrabagno 17 ESI Газовый проточный водонагреватель с закрытой камерой сгорания. Мощность, кВт: 28,8. Производительность 11 л/мин. Плавная регулировка мощности. Автоматический электророзжиг.</fullname>
+                    <partnumber>1100183</partnumber>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="92751" isgroup="0" garant="0" cena_dyler="340" cena_gurt="355" cena_dribnyj_gurt="370" cena_rozdrib="390" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Колонка, водонагрівач Beretta Idrabagno 17i AQUA</name>
+                    <name_ru>Колонка, водонагреватель Beretta Idrabagno 17i AQUA</name_ru>
+                    <fullname>Колонка, водонагреватель Beretta Idrabagno 17i AQUA Газовый проточный водонагреватель с автоматическим электророзжигом. Номинальная тепловая мощность: 29,5 кВт. Производительность: 17 л/мин. Устройство контроля тяги. Плавная регулировка мощности в зависимости от расхода воды через водонагреватель. Независимость от внешних источников питания</fullname>
+                    <partnumber/>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+            </node>
+            <node kod="88005" isgroup="1">
+                <name>Аксесуари</name>
+                <name_ru>Аксесуари</name_ru>
+                <node kod="88060" isgroup="0" garant="0" cena_dyler="70" cena_gurt="80" cena_dribnyj_gurt="90" cena_rozdrib="100" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>COMPUTHERM Q7 RF дистанційне керув. з тижн.програмуванням</name>
+                    <name_ru>COMPUTHERM Q7 RF дистанційне керув. з тижн.програмуванням</name_ru>
+                    <fullname>дистанційне керування з тижневим програмуванням computherm Q7rf</fullname>
+                    <partnumber/>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+                <node kod="88074" isgroup="0" garant="0" cena_dyler="35" cena_gurt="50" cena_dribnyj_gurt="50" cena_rozdrib="50" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
+                    <name>Колектор для котла Стандартний горизонтальний колектор 817 мм</name>
+                    <name_ru>Коллектор для котла Стандартный горизонтальный коллектор 817 мм</name_ru>
+                    <fullname>Коллектор для котла Стандартный горизонтальный коллектор 817 мм Коллектор дымоудаления и воздухозабора 817 мм</fullname>
+                    <partnumber>1100019</partnumber>
+                    <manufacturer>Beretta</manufacturer>
+                </node>
+            </node>
         </node>
     </node>
-    <node kod="88343" isgroup="1">
-        <name>FERROLI</name>
-        <name_ru>FERROLI</name_ru>
-        <node kod="88346" isgroup="0" garant="0" cena_dyler="31" cena_gurt="35" cena_dribnyj_gurt="38" cena_rozdrib="40" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-            <name>РљРѕР»РµРєС‚РѕСЂ РґР»СЏ РєРѕС‚Р»Р° РљРѕР»РµРєС‚РѕСЂ РґРёРјРѕРІРёРґР°Р»РµРЅРЅСЏ РґР»СЏ С‚СѓСЂР±РѕРєРѕС‚Р»С–РІ Feroli</name>
-            <name_ru>РљРѕР»Р»РµРєС‚РѕСЂ РґР»СЏ РєРѕС‚Р»Р° РљРѕР»Р»РµРєС‚РѕСЂ РґС‹РјРѕСѓРґР°Р»РµРЅРёСЏ РґР»СЏ С‚СѓСЂР±Рѕ РєРѕС‚Р»РѕРІ Ferroli</name_ru>
-            <fullname>РљРѕР»Р»РµРєС‚РѕСЂ РґР»СЏ РєРѕС‚Р»Р° РљРѕР»Р»РµРєС‚РѕСЂ РґС‹РјРѕСѓРґР°Р»РµРЅРёСЏ РґР»СЏ С‚СѓСЂР±Рѕ РєРѕС‚Р»РѕРІ Ferroli РљРѕР»Р»РµРєС‚РѕСЂ РґС‹РјРѕСѓРґР°Р»РµРЅРёСЏ РґР»СЏ С‚СѓСЂР±Рѕ РєРѕС‚Р»РѕРІ Ferroli</fullname>
-            <partnumber/>
-            <manufacturer>Ferroli</manufacturer>
-        </node>
-        <node kod="88354" isgroup="0" garant="0" cena_dyler="445" cena_gurt="455" cena_dribnyj_gurt="465" cena_rozdrib="500" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-            <name>РљРѕС‚РµР» Ferroli DOMIproject C 24</name>
-            <name_ru>РљРѕС‚С‘Р» Ferroli DOMIproject C 24</name_ru>
-            <fullname>РљРѕС‚С‘Р» Ferroli DOMIproject C 24 РљРџР” 91 %  РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ 13.4 Р» /РјРёРЅ  РњРѕС‰РЅРѕСЃС‚СЊ 23.5 РєР’С‚  Р”Р°РІР»РµРЅРёРµ РЅР° РІС…РѕРґРµ РІ РєРѕРЅС‚СѓСЂРµ РѕС‚РѕРїР»РµРЅРёСЏ - РґРѕ 3 Р±Р°СЂ, РґР°РІР»РµРЅРёРµ РІРѕРґРѕСЃРЅР°Р±Р¶РµРЅРёСЏ - 0,25-9 Р±Р°СЂ  РџР»РѕС‰Р°РґСЊ РѕР±РѕРіСЂРµРІР° РґРѕ 240 РєРІ.Рј  РўРµРјРїРµСЂР°С‚СѓСЂРЅС‹Р№ РґРёР°РїР°Р·РѕРЅ РІ СЃРёСЃС‚РµРјРµ РћС‚РѕРїР»РµРЅРёСЏ/Р“Р’РЎ  30-90 / 40-65 В°РЎ  Р Р°СЃС…РѕРґ С‚РѕРїР»РёРІР°  2,73 РєРі /С‡Р°СЃ</fullname>
-            <partnumber/>
-            <manufacturer>Ferroli</manufacturer>
-        </node>
-        <node kod="88356" isgroup="0" garant="0" cena_dyler="485" cena_gurt="495" cena_dribnyj_gurt="520" cena_rozdrib="540" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-            <name>РљРѕС‚РµР» Ferroli DOMIproject F 24</name>
-            <name_ru>РљРѕС‚С‘Р» Ferroli DOMIproject F 24</name_ru>
-            <fullname>РљРѕС‚С‘Р» Ferroli DOMIproject F 24 РљРџР” 89.7 %  РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ 13,7 Р» /РјРёРЅ  РњРѕС‰РЅРѕСЃС‚СЊ 24 РєР’С‚  Р”Р°РІР»РµРЅРёРµ РЅР° РІС…РѕРґРµ РІ РєРѕРЅС‚СѓСЂРµ РѕС‚РѕРїР»РµРЅРёСЏ - РґРѕ 3 Р±Р°СЂ, РґР°РІР»РµРЅРёРµ РІРѕРґРѕСЃРЅР°Р±Р¶РµРЅРёСЏ - 0,25-9 Р±Р°СЂ  РџР»РѕС‰Р°РґСЊ РѕР±РѕРіСЂРµРІР°  РґРѕ 240 РєРІ.Рј  РўРµРјРїРµСЂР°С‚СѓСЂРЅС‹Р№ РґРёР°РїР°Р·РѕРЅ РІ СЃРёСЃС‚РµРјРµ РћС‚РѕРїР»РµРЅРёСЏ/Р“Р’РЎ  30-90 / 40-65 В°РЎ  Р Р°СЃС…РѕРґ С‚РѕРїР»РёРІР° 2,73 РєРі /С‡Р°СЃ</fullname>
-            <partnumber/>
-            <manufacturer>Ferroli</manufacturer>
-        </node>
-    </node>
-    <node kod="88829" isgroup="1">
-        <name>РђР›Р®РњРќР†Р†Р„Р’Р† Р РђР”Р†РђРўРћР Р</name>
-        <name_ru>РђР›Р®РњРќР†Р†Р„Р’Р† Р РђР”Р†РђРўРћР Р</name_ru>
-        <node kod="88830" isgroup="0" garant="12" cena_dyler="8" cena_gurt="8.5" cena_dribnyj_gurt="9" cena_rozdrib="9.1" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-            <name>Р Р°РґРёР°С‚РѕСЂ Р°Р»СЋРјС–РЅС–С”РІРёР№ GRESSO (Mirado) 500/85, 16 Р°С‚Рј.</name>
-            <name_ru>Р Р°РґРёР°С‚РѕСЂ Р°Р»СЋРјС–РЅС–С”РІРёР№ GRESSO (Mirado) 500/85, 16 Р°С‚Рј.</name_ru>
-            <fullname>Р Р°РґРёР°С‚РѕСЂ Р°Р»СЋРјС–РЅС–С”РІРёР№ GRESSO 500/85, 16 Р°С‚Рј.</fullname>
-            <partnumber/>
-            <manufacturer>РЈРєСЂР°РёРЅР°</manufacturer>
-        </node>
-        <node kod="88831" isgroup="0" garant="12" cena_dyler="8.1" cena_gurt="8.3" cena_dribnyj_gurt="8.5" cena_rozdrib="9" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-            <name>Р Р°РґС–Р°С‚РѕСЂ Р°Р»СЋРјС–РЅС–С”РІРёР№ Р±С–РјРµС‚Р°Р»С–С‡РЅРёР№ GRESSO (Mi 500/85, 30 Р°С‚Рј.</name>
-            <name_ru>Р Р°РґС–Р°С‚РѕСЂ Р°Р»СЋРјС–РЅС–С”РІРёР№ Р±С–РјРµС‚Р°Р»С–С‡РЅРёР№ GRESSO (Mi 500/85, 30 Р°С‚Рј.</name_ru>
-            <fullname>Р Р°РґС–Р°С‚РѕСЂ Р°Р»СЋРјС–РЅС–С”РІРёР№ Р±С–РјРµС‚Р°Р»С–С‡РЅРёР№ GRESSO 500/85, 30 Р°С‚Рј.</fullname>
-            <partnumber/>
-            <manufacturer>РЈРєСЂР°РёРЅР°</manufacturer>
-        </node>
-    </node>
-    <node kod="88004" isgroup="1">
-        <name>BERETTA</name>
-        <name_ru>BERETTA</name_ru>
-        <node kod="88205" isgroup="1">
-            <name>РќРђРЎРўР†РќРќР† Р“РђР—РћР’Р† РљРћРўР›Р</name>
-            <name_ru>РќРђРЎРўР†РќРќР† Р“РђР—РћР’Р† РљРћРўР›Р</name_ru>
-            <node kod="88214" isgroup="0" garant="12" cena_dyler="455" cena_gurt="460" cena_dribnyj_gurt="465" cena_rozdrib="470" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕС‚РµР» Beretta Ciao 24 CAI</name>
-                <name_ru>РљРѕС‚С‘Р» Beretta Ciao 24 CAI</name_ru>
-                <fullname>РљРѕС‚С‘Р» Beretta Ciao 24 CAI РќР°СЃС‚РµРЅРЅС‹Р№ РіР°Р·РѕРІС‹Р№ РґРІСѓС…РєРѕРЅС‚СѓСЂРЅС‹Р№ РєРѕС‚РµР» CIAO РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РѕС‚РѕРїР»РµРЅРёСЏ Рё РіРѕСЂСЏС‡РµРіРѕ РІРѕРґРѕСЃРЅР°Р±Р¶РµРЅРёСЏ РїРѕРјРµС‰РµРЅРёР№ СЂР°Р·Р»РёС‡РЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ. РћС‚РєСЂС‹С‚Р°СЏ РєР°РјРµСЂР° СЃРіРѕСЂР°РЅРёСЏ. РњРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚: 9-23,8. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ ?Рў=25В°РЎ Р»/РјРёРЅ: 13,6. РљРџР” %: 90,2. Р Р°СЃС…РѕРґ РіР°Р·Р°, Рј3 /С‡: 2,82. Р Р°Р·РјРµСЂС‹, РјРј: 740С…400С…328</fullname>
-                <partnumber>20013791</partnumber>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="88218" isgroup="0" garant="12" cena_dyler="455" cena_gurt="460" cena_dribnyj_gurt="465" cena_rozdrib="470" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕС‚РµР» Beretta Ciao 24 CSI</name>
-                <name_ru>РљРѕС‚С‘Р» Beretta Ciao 24 CSI</name_ru>
-                <fullname>РљРѕС‚С‘Р» Beretta Ciao 24 CSI РќР°СЃС‚РµРЅРЅС‹Р№ РіР°Р·РѕРІС‹Р№ РґРІСѓС…РєРѕРЅС‚СѓСЂРЅС‹Р№ РєРѕС‚РµР» CIAO РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РѕС‚РѕРїР»РµРЅРёСЏ Рё РіРѕСЂСЏС‡РµРіРѕ РІРѕРґРѕСЃРЅР°Р±Р¶РµРЅРёСЏ РїРѕРјРµС‰РµРЅРёР№ СЂР°Р·Р»РёС‡РЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ. РћС‚РєСЂС‹С‚Р°СЏ РєР°РјРµСЂР° СЃРіРѕСЂР°РЅРёСЏ. РњРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚: 9-24. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ ?Рў=25В°РЎ Р»/РјРёРЅ: 13,8. РљРџР” %: 90,2. Р Р°СЃС…РѕРґ РіР°Р·Р°, Рј3 /С‡: 2,78. Р Р°Р·РјРµСЂС‹, РјРј: 740С…400С…32</fullname>
-                <partnumber>20011572</partnumber>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="88219" isgroup="0" garant="12" cena_dyler="550" cena_gurt="560" cena_dribnyj_gurt="570" cena_rozdrib="650" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕС‚РµР» Beretta Ciao 28 CAI</name>
-                <name_ru>РљРѕС‚С‘Р» Beretta Ciao 28 CAI</name_ru>
-                <fullname>РљРѕС‚С‘Р» Beretta Ciao 28 CAI РќР°СЃС‚РµРЅРЅС‹Р№ РіР°Р·РѕРІС‹Р№ РґРІСѓС…РєРѕРЅС‚СѓСЂРЅС‹Р№ РєРѕС‚РµР» CIAO РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РѕС‚РѕРїР»РµРЅРёСЏ Рё РіРѕСЂСЏС‡РµРіРѕ РІРѕРґРѕСЃРЅР°Р±Р¶РµРЅРёСЏ РїРѕРјРµС‰РµРЅРёР№ СЂР°Р·Р»РёС‡РЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ. РћС‚РєСЂС‹С‚Р°СЏ РєР°РјРµСЂР° СЃРіРѕСЂР°РЅРёСЏ. РњРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚: 8,9-28,5. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ ?Рў=25В°РЎ Р»/РјРёРЅ: 16,3. РљРџР” %: 89,3. Р Р°СЃС…РѕРґ РіР°Р·Р°, Рј3 /С‡: 3,37. Р Р°Р·РјРµСЂС‹, РјРј: 740С…450С…328</fullname>
-                <partnumber>2410213</partnumber>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="88220" isgroup="0" garant="12" cena_dyler="550" cena_gurt="560" cena_dribnyj_gurt="570" cena_rozdrib="650" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕС‚РµР» Beretta Ciao 28 CSI</name>
-                <name_ru>РљРѕС‚С‘Р» Beretta Ciao 28 CSI</name_ru>
-                <fullname>РљРѕС‚С‘Р» Beretta Ciao 28 CSI РќР°СЃС‚РµРЅРЅС‹Р№ РіР°Р·РѕРІС‹Р№ РґРІСѓС…РєРѕРЅС‚СѓСЂРЅС‹Р№ РєРѕС‚РµР» CIAO РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РѕС‚РѕРїР»РµРЅРёСЏ Рё РіРѕСЂСЏС‡РµРіРѕ РІРѕРґРѕСЃРЅР°Р±Р¶РµРЅРёСЏ РїРѕРјРµС‰РµРЅРёР№ СЂР°Р·Р»РёС‡РЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ. Р—Р°РєСЂС‹С‚Р°СЏ РєР°РјРµСЂР° СЃРіРѕСЂР°РЅРёСЏ. РњРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚: 8,7-28. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ ?Рў=25В°РЎ Р»/РјРёРЅ: 16,1. РљРџР” %: 91,3. Р Р°СЃС…РѕРґ РіР°Р·Р°, Рј3 /С‡: 3,28. Р Р°Р·РјРµСЂС‹, РјРј: 740С…450С…338</fullname>
-                <partnumber>2410233</partnumber>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="88221" isgroup="0" garant="12" cena_dyler="490" cena_gurt="500" cena_dribnyj_gurt="510" cena_rozdrib="520" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕС‚РµР» Beretta City 24 CAI</name>
-                <name_ru>РљРѕС‚С‘Р» Beretta City 24 CAI</name_ru>
-                <fullname>РљРѕС‚С‘Р» Beretta City 24 CAI РќР°СЃС‚РµРЅРЅС‹Р№ РіР°Р·РѕРІС‹Р№ РґРІСѓС…РєРѕРЅС‚СѓСЂРЅС‹Р№ РєРѕС‚РµР» CITY РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РѕС‚РѕРїР»РµРЅРёСЏ Рё РіРѕСЂСЏС‡РµРіРѕ РІРѕРґРѕСЃРЅР°Р±Р¶РµРЅРёСЏ РїРѕРјРµС‰РµРЅРёР№ СЂР°Р·Р»РёС‡РЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ. РћС‚РєСЂС‹С‚Р°СЏ РєР°РјРµСЂР° СЃРіРѕСЂР°РЅРёСЏ. РњРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚: 9-23,8. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ ?Рў=25В°РЎ Р»/РјРёРЅ: 13,6. РљРџР” %: 91,2. Р Р°СЃС…РѕРґ РіР°Р·Р°, Рј3 /С‡: 2,78. Р Р°Р·РјРµСЂС‹, РјРј: 740С…450С…332</fullname>
-                <partnumber>2410312</partnumber>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="88224" isgroup="0" garant="12" cena_dyler="490" cena_gurt="500" cena_dribnyj_gurt="510" cena_rozdrib="520" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕС‚РµР» Beretta City 24 CSI</name>
-                <name_ru>РљРѕС‚С‘Р» Beretta City 24 CSI</name_ru>
-                <fullname>РљРѕС‚С‘Р» Beretta City 24 CSI РќР°СЃС‚РµРЅРЅС‹Р№ РіР°Р·РѕРІС‹Р№ РґРІСѓС…РєРѕРЅС‚СѓСЂРЅС‹Р№ РєРѕС‚РµР» CITY РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РѕС‚РѕРїР»РµРЅРёСЏ Рё РіРѕСЂСЏС‡РµРіРѕ РІРѕРґРѕСЃРЅР°Р±Р¶РµРЅРёСЏ РїРѕРјРµС‰РµРЅРёР№ СЂР°Р·Р»РёС‡РЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ. Р—Р°РєСЂС‹С‚Р°СЏ РєР°РјРµСЂР° СЃРіРѕСЂР°РЅРёСЏ. РњРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚: 8,2-24. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ ?Рў=25В°РЎ Р»/РјРёРЅ: 13,8. РљРџР” %: 91,2. Р Р°СЃС…РѕРґ РіР°Р·Р°, Рј3 /С‡: 2,78. Р Р°Р·РјРµСЂС‹, РјРј: 740С…400С…332</fullname>
-                <partnumber>2410323</partnumber>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="88227" isgroup="0" garant="12" cena_dyler="500" cena_gurt="520" cena_dribnyj_gurt="540" cena_rozdrib="560" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕС‚РµР» Beretta City 24 RSI</name>
-                <name_ru>РљРѕС‚С‘Р» Beretta City 24 RSI</name_ru>
-                <fullname>РљРѕС‚С‘Р» Beretta City 24 RSI РќР°СЃС‚РµРЅРЅС‹Р№ РіР°Р·РѕРІС‹Р№ РґРІСѓС…РєРѕРЅС‚СѓСЂРЅС‹Р№ РєРѕС‚РµР» CITY РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РѕС‚РѕРїР»РµРЅРёСЏ Рё РіРѕСЂСЏС‡РµРіРѕ РІРѕРґРѕСЃРЅР°Р±Р¶РµРЅРёСЏ РїРѕРјРµС‰РµРЅРёР№ СЂР°Р·Р»РёС‡РЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ. РћС‚РєСЂС‹С‚Р°СЏ РєР°РјРµСЂР° СЃРіРѕСЂР°РЅРёСЏ. РњРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚: 24. РљРџР” %: 91,8. Р Р°СЃС…РѕРґ РіР°Р·Р°, Рј3 /С‡: 2.73. Р Р°Р·РјРµСЂС‹, РјРј: 740С…400С…332</fullname>
-                <partnumber>20024740</partnumber>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="92743" isgroup="0" garant="12" cena_dyler="575" cena_gurt="590" cena_dribnyj_gurt="600" cena_rozdrib="620" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕС‚РµР» Beretta City 28 CSI</name>
-                <name_ru>РљРѕС‚С‘Р» Beretta City 28 CSI</name_ru>
-                <fullname>РљРѕС‚С‘Р» Beretta City 28 CSI РќР°СЃС‚РµРЅРЅС‹Р№ РіР°Р·РѕРІС‹Р№ РґРІСѓС…РєРѕРЅС‚СѓСЂРЅС‹Р№ РєРѕС‚РµР» CITY РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РѕС‚РѕРїР»РµРЅРёСЏ Рё РіРѕСЂСЏС‡РµРіРѕ РІРѕРґРѕСЃРЅР°Р±Р¶РµРЅРёСЏ РїРѕРјРµС‰РµРЅРёР№ СЂР°Р·Р»РёС‡РЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ. Р—Р°РєСЂС‹С‚Р°СЏ РєР°РјРµСЂР° СЃРіРѕСЂР°РЅРёСЏ. РњРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚: 30,5. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ ?Рў=25В°РЎ Р»/РјРёРЅ: 16.3. Р Р°СЃС…РѕРґ РіР°Р·Р°, Рј3 /С‡: 3,23. Р Р°Р·РјРµСЂС‹, РјРј: 740С…450С…332</fullname>
-                <partnumber>20049590</partnumber>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="92744" isgroup="0" garant="0" cena_dyler="575" cena_gurt="590" cena_dribnyj_gurt="600" cena_rozdrib="620" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕС‚РµР» Beretta City 28 CРђI</name>
-                <name_ru>РљРѕС‚С‘Р» Beretta City 28 CРђI</name_ru>
-                <fullname>РљРѕС‚С‘Р» Beretta City 28 CРђI РќР°СЃС‚РµРЅРЅС‹Р№ РіР°Р·РѕРІС‹Р№ РґРІСѓС…РєРѕРЅС‚СѓСЂРЅС‹Р№ РєРѕС‚РµР» CITY РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РѕС‚РѕРїР»РµРЅРёСЏ Рё РіРѕСЂСЏС‡РµРіРѕ РІРѕРґРѕСЃРЅР°Р±Р¶РµРЅРёСЏ РїРѕРјРµС‰РµРЅРёР№ СЂР°Р·Р»РёС‡РЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ. РћС‚РєСЂС‹С‚Р°СЏ РєР°РјРµСЂР° СЃРіРѕСЂР°РЅРёСЏ. РњРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚: 31.9. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ ?Рў=25В°РЎ Р»/РјРёРЅ: 16.6. РљРџР” %: 91,2. Р Р°СЃС…РѕРґ РіР°Р·Р°, Рј3 /С‡: 3.37. Р Р°Р·РјРµСЂС‹, РјРј: 740С…450С…332</fullname>
-                <partnumber/>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="92746" isgroup="0" garant="0" cena_dyler="555" cena_gurt="580" cena_dribnyj_gurt="580" cena_rozdrib="650" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕС‚РµР» Beretta City 28 RSI</name>
-                <name_ru>РљРѕС‚С‘Р» Beretta City 28 RSI</name_ru>
-                <fullname>РљРѕС‚С‘Р» Beretta City 28 RSI РќР°СЃС‚РµРЅРЅС‹Р№ РіР°Р·РѕРІС‹Р№ РґРІСѓС…РєРѕРЅС‚СѓСЂРЅС‹Р№ РєРѕС‚РµР» CITY РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РѕС‚РѕРїР»РµРЅРёСЏ Рё РіРѕСЂСЏС‡РµРіРѕ РІРѕРґРѕСЃРЅР°Р±Р¶РµРЅРёСЏ РїРѕРјРµС‰РµРЅРёР№ СЂР°Р·Р»РёС‡РЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ. РћС‚РєСЂС‹С‚Р°СЏ РєР°РјРµСЂР° СЃРіРѕСЂР°РЅРёСЏ. РњРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚: 30.5. РљРџР” %: 90,8. Р Р°СЃС…РѕРґ РіР°Р·Р°, Рј3 /С‡: 3.23. Р Р°Р·РјРµСЂС‹, РјРј: 740С…400С…332</fullname>
-                <partnumber/>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="92748" isgroup="0" garant="12" cena_dyler="555" cena_gurt="570" cena_dribnyj_gurt="580" cena_rozdrib="600" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕС‚РµР» Beretta City 28 RРђI</name>
-                <name_ru>РљРѕС‚С‘Р» Beretta City 28 RРђI</name_ru>
-                <fullname>РљРѕС‚С‘Р» Beretta City 28 RРђI РќР°СЃС‚РµРЅРЅС‹Р№ РіР°Р·РѕРІС‹Р№ РґРІСѓС…РєРѕРЅС‚СѓСЂРЅС‹Р№ РєРѕС‚РµР» CITY РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РѕС‚РѕРїР»РµРЅРёСЏ Рё РіРѕСЂСЏС‡РµРіРѕ РІРѕРґРѕСЃРЅР°Р±Р¶РµРЅРёСЏ РїРѕРјРµС‰РµРЅРёР№ СЂР°Р·Р»РёС‡РЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ. РћС‚РєСЂС‹С‚Р°СЏ РєР°РјРµСЂР° СЃРіРѕСЂР°РЅРёСЏ. РњРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚: 31.9. Р Р°СЃС…РѕРґ РіР°Р·Р°, Рј3 /С‡: 3.37. Р Р°Р·РјРµСЂС‹, РјРј: 740С…450С…332</fullname>
-                <partnumber>20049743 </partnumber>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="92745" isgroup="0" garant="12" cena_dyler="710" cena_gurt="750" cena_dribnyj_gurt="770" cena_rozdrib="800" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕС‚РµР» Beretta City 35 CSI</name>
-                <name_ru>РљРѕС‚С‘Р» Beretta City 35 CSI</name_ru>
-                <fullname>РљРѕС‚С‘Р» Beretta City 35 CSI РќР°СЃС‚РµРЅРЅС‹Р№ РіР°Р·РѕРІС‹Р№ РґРІСѓС…РєРѕРЅС‚СѓСЂРЅС‹Р№ РєРѕС‚РµР» CITY РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РѕС‚РѕРїР»РµРЅРёСЏ Рё РіРѕСЂСЏС‡РµРіРѕ РІРѕРґРѕСЃРЅР°Р±Р¶РµРЅРёСЏ РїРѕРјРµС‰РµРЅРёР№ СЂР°Р·Р»РёС‡РЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ. Р—Р°РєСЂС‹С‚Р°СЏ РєР°РјРµСЂР° СЃРіРѕСЂР°РЅРёСЏ. РњРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚: 37.6. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ ?Рў=25В°РЎ Р»/РјРёРЅ: 20. Р Р°СЃС…РѕРґ РіР°Р·Р°, Рј3 /С‡: 3.98. Р Р°Р·РјРµСЂС‹, РјРј: 780С…500С…342</fullname>
-                <partnumber>20049747</partnumber>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-        </node>
-        <node kod="88135" isgroup="1">
-            <name>Р“РђР—РћР’Р† РљРћР›РћРќРљР</name>
-            <name_ru>Р“РђР—РћР’Р† РљРћР›РћРќРљР</name_ru>
-            <node kod="88139" isgroup="0" garant="12" cena_dyler="157" cena_gurt="165" cena_dribnyj_gurt="170" cena_rozdrib="185" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂС–РІР°С‡ Beretta Idrabagno 11 AQUA</name>
-                <name_ru>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 11 AQUA</name_ru>
-                <fullname>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 11 AQUA Р“Р°Р·РѕРІС‹Р№ РїСЂРѕС‚РѕС‡РЅС‹Р№ РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ СЃ РїСЊРµР·РѕСЂРѕР·Р¶РёРіРѕРј. РќРѕРјРёРЅР°Р»СЊРЅР°СЏ С‚РµРїР»РѕРІР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ: 21,8 РєР’С‚. РњР°РєСЃ. СЂР°СЃС…РѕРґ РіР°Р·Р°: 2.2 Рј?/С‡. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ: 11 Р»/РјРёРЅ. РЈСЃС‚СЂРѕР№СЃС‚РІРѕ РєРѕРЅС‚СЂРѕР»СЏ С‚СЏРіРё. РџР»Р°РІРЅР°СЏ СЂРµРіСѓР»РёСЂРѕРІРєР° РјРѕС‰РЅРѕСЃС‚Рё РІ Р·Р°РІРёСЃРёРјРѕСЃС‚Рё РѕС‚ СЂР°СЃС…РѕРґР° РІРѕРґС‹ С‡РµСЂРµР· РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ. РќРµР·Р°РІРёСЃРёРјРѕСЃС‚СЊ РѕС‚ РІРЅРµС€РЅРёС… РёСЃС‚РѕС‡РЅРёРєРѕРІ РїРёС‚Р°РЅРёСЏ.</fullname>
-                <partnumber/>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="88141" isgroup="0" garant="0" cena_dyler="205" cena_gurt="255" cena_dribnyj_gurt="270" cena_rozdrib="300" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂС–РІР°С‡ Beretta Idrabagno 11i AQUA</name>
-                <name_ru>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 11i AQUA</name_ru>
-                <fullname>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 11i AQUA Р“Р°Р·РѕРІС‹Р№ РїСЂРѕС‚РѕС‡РЅС‹Р№ РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ СЃ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРёРј СЌР»РµРєС‚СЂРѕСЂРѕР·Р¶РёРіРѕРј. РќРѕРјРёРЅР°Р»СЊРЅР°СЏ С‚РµРїР»РѕРІР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ: 18 РєР’С‚. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ: 11 Р»/РјРёРЅ. РЈСЃС‚СЂРѕР№СЃС‚РІРѕ РєРѕРЅС‚СЂРѕР»СЏ С‚СЏРіРё. РџР»Р°РІРЅР°СЏ СЂРµРіСѓР»РёСЂРѕРІРєР° РјРѕС‰РЅРѕСЃС‚Рё РІ Р·Р°РІРёСЃРёРјРѕСЃС‚Рё РѕС‚ СЂР°СЃС…РѕРґР° РІРѕРґС‹ С‡РµСЂРµР· РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ. РќРµР·Р°РІРёСЃРёРјРѕСЃС‚СЊ РѕС‚ РІРЅРµС€РЅРёС… РёСЃС‚РѕС‡РЅРёРєРѕРІ РїРёС‚Р°РЅРёСЏ</fullname>
-                <partnumber/>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="88142" isgroup="0" garant="0" cena_dyler="390" cena_gurt="398" cena_dribnyj_gurt="410" cena_rozdrib="440" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂС–РІР°С‡ Beretta Idrabagno 13 ESI</name>
-                <name_ru>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 13 ESI</name_ru>
-                <fullname>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 13 ESI Р“Р°Р·РѕРІС‹Р№ РїСЂРѕС‚РѕС‡РЅС‹Р№ РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ СЃ Р·Р°РєСЂС‹С‚РѕР№ РєР°РјРµСЂРѕР№ СЃРіРѕСЂР°РЅРёСЏ. РњРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚: 22,5. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ 8 Р»/РјРёРЅ. РџР»Р°РІРЅР°СЏ СЂРµРіСѓР»РёСЂРѕРІРєР° РјРѕС‰РЅРѕСЃС‚Рё. РђРІС‚РѕРјР°С‚РёС‡РµСЃРєРёР№ СЌР»РµРєС‚СЂРѕСЂРѕР·Р¶РёРі.</fullname>
-                <partnumber>1100173</partnumber>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="88144" isgroup="0" garant="0" cena_dyler="200" cena_gurt="205" cena_dribnyj_gurt="215" cena_rozdrib="235" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂС–РІР°С‡ Beretta Idrabagno 14 AQUA</name>
-                <name_ru>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 14 AQUA</name_ru>
-                <fullname>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 14 AQUA Р“Р°Р·РѕРІС‹Р№ РїСЂРѕС‚РѕС‡РЅС‹Р№ РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ СЃ РїСЊРµР·РѕСЂРѕР·Р¶РёРіРѕРј. РќРѕРјРёРЅР°Р»СЊРЅР°СЏ С‚РµРїР»РѕРІР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ: 27,2 РєР’С‚. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ: 14 Р»/РјРёРЅ. РЈСЃС‚СЂРѕР№СЃС‚РІРѕ РєРѕРЅС‚СЂРѕР»СЏ С‚СЏРіРё. РџР»Р°РІРЅР°СЏ СЂРµРіСѓР»РёСЂРѕРІРєР° РјРѕС‰РЅРѕСЃС‚Рё РІ Р·Р°РІРёСЃРёРјРѕСЃС‚Рё РѕС‚ СЂР°СЃС…РѕРґР° РІРѕРґС‹ С‡РµСЂРµР· РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ. РќРµР·Р°РІРёСЃРёРјРѕСЃС‚СЊ РѕС‚ РІРЅРµС€РЅРёС… РёСЃС‚РѕС‡РЅРёРєРѕРІ РїРёС‚Р°РЅРёСЏ.</fullname>
-                <partnumber/>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="88146" isgroup="0" garant="0" cena_dyler="268" cena_gurt="275" cena_dribnyj_gurt="288" cena_rozdrib="309" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂС–РІР°С‡ Beretta Idrabagno 14i AQUA</name>
-                <name_ru>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 14i AQUA</name_ru>
-                <fullname>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 14i AQUA Р“Р°Р·РѕРІС‹Р№ РїСЂРѕС‚РѕС‡РЅС‹Р№ РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ СЃ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРёРј СЌР»РµРєС‚СЂРѕСЂРѕР·Р¶РёРіРѕРј. РќРѕРјРёРЅР°Р»СЊРЅР°СЏ С‚РµРїР»РѕРІР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ: 21,8 РєР’С‚. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ: 14 Р»/РјРёРЅ. РЈСЃС‚СЂРѕР№СЃС‚РІРѕ РєРѕРЅС‚СЂРѕР»СЏ С‚СЏРіРё. РџР»Р°РІРЅР°СЏ СЂРµРіСѓР»РёСЂРѕРІРєР° РјРѕС‰РЅРѕСЃС‚Рё РІ Р·Р°РІРёСЃРёРјРѕСЃС‚Рё РѕС‚ СЂР°СЃС…РѕРґР° РІРѕРґС‹ С‡РµСЂРµР· РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ. РќРµР·Р°РІРёСЃРёРјРѕСЃС‚СЊ РѕС‚ РІРЅРµС€РЅРёС… РёСЃС‚РѕС‡РЅРёРєРѕРІ РїРёС‚Р°РЅРёСЏ</fullname>
-                <partnumber/>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="92750" isgroup="0" garant="12" cena_dyler="270" cena_gurt="290" cena_dribnyj_gurt="300" cena_rozdrib="330" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂС–РІР°С‡ Beretta Idrabagno 17 AQUA</name>
-                <name_ru>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 17 AQUA</name_ru>
-                <fullname>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 17 AQUA Р“Р°Р·РѕРІС‹Р№ РїСЂРѕС‚РѕС‡РЅС‹Р№ РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ СЃ РїСЊРµР·РѕСЂРѕР·Р¶РёРіРѕРј. РќРѕРјРёРЅР°Р»СЊРЅР°СЏ С‚РµРїР»РѕРІР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ: 29,5 РєР’С‚. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ: 17 Р»/РјРёРЅ. РЈСЃС‚СЂРѕР№СЃС‚РІРѕ РєРѕРЅС‚СЂРѕР»СЏ С‚СЏРіРё. РџР»Р°РІРЅР°СЏ СЂРµРіСѓР»РёСЂРѕРІРєР° РјРѕС‰РЅРѕСЃС‚Рё РІ Р·Р°РІРёСЃРёРјРѕСЃС‚Рё РѕС‚ СЂР°СЃС…РѕРґР° РІРѕРґС‹ С‡РµСЂРµР· РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ. РќРµР·Р°РІРёСЃРёРјРѕСЃС‚СЊ РѕС‚ РІРЅРµС€РЅРёС… РёСЃС‚РѕС‡РЅРёРєРѕРІ РїРёС‚Р°РЅРёСЏ.</fullname>
-                <partnumber/>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="88148" isgroup="0" garant="0" cena_dyler="430" cena_gurt="450" cena_dribnyj_gurt="470" cena_rozdrib="500" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂС–РІР°С‡ Beretta Idrabagno 17 ESI</name>
-                <name_ru>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 17 ESI</name_ru>
-                <fullname>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 17 ESI Р“Р°Р·РѕРІС‹Р№ РїСЂРѕС‚РѕС‡РЅС‹Р№ РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ СЃ Р·Р°РєСЂС‹С‚РѕР№ РєР°РјРµСЂРѕР№ СЃРіРѕСЂР°РЅРёСЏ. РњРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚: 28,8. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ 11 Р»/РјРёРЅ. РџР»Р°РІРЅР°СЏ СЂРµРіСѓР»РёСЂРѕРІРєР° РјРѕС‰РЅРѕСЃС‚Рё. РђРІС‚РѕРјР°С‚РёС‡РµСЃРєРёР№ СЌР»РµРєС‚СЂРѕСЂРѕР·Р¶РёРі.</fullname>
-                <partnumber>1100183</partnumber>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="92751" isgroup="0" garant="0" cena_dyler="340" cena_gurt="355" cena_dribnyj_gurt="370" cena_rozdrib="390" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂС–РІР°С‡ Beretta Idrabagno 17i AQUA</name>
-                <name_ru>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 17i AQUA</name_ru>
-                <fullname>РљРѕР»РѕРЅРєР°, РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ Beretta Idrabagno 17i AQUA Р“Р°Р·РѕРІС‹Р№ РїСЂРѕС‚РѕС‡РЅС‹Р№ РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ СЃ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРёРј СЌР»РµРєС‚СЂРѕСЂРѕР·Р¶РёРіРѕРј. РќРѕРјРёРЅР°Р»СЊРЅР°СЏ С‚РµРїР»РѕРІР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ: 29,5 РєР’С‚. РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ: 17 Р»/РјРёРЅ. РЈСЃС‚СЂРѕР№СЃС‚РІРѕ РєРѕРЅС‚СЂРѕР»СЏ С‚СЏРіРё. РџР»Р°РІРЅР°СЏ СЂРµРіСѓР»РёСЂРѕРІРєР° РјРѕС‰РЅРѕСЃС‚Рё РІ Р·Р°РІРёСЃРёРјРѕСЃС‚Рё РѕС‚ СЂР°СЃС…РѕРґР° РІРѕРґС‹ С‡РµСЂРµР· РІРѕРґРѕРЅР°РіСЂРµРІР°С‚РµР»СЊ. РќРµР·Р°РІРёСЃРёРјРѕСЃС‚СЊ РѕС‚ РІРЅРµС€РЅРёС… РёСЃС‚РѕС‡РЅРёРєРѕРІ РїРёС‚Р°РЅРёСЏ</fullname>
-                <partnumber/>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-        </node>
-        <node kod="88005" isgroup="1">
-            <name>РђРєСЃРµСЃСѓР°СЂРё</name>
-            <name_ru>РђРєСЃРµСЃСѓР°СЂРё</name_ru>
-            <node kod="88060" isgroup="0" garant="0" cena_dyler="70" cena_gurt="80" cena_dribnyj_gurt="90" cena_rozdrib="100" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>COMPUTHERM Q7 RF РґРёСЃС‚Р°РЅС†С–Р№РЅРµ РєРµСЂСѓРІ. Р· С‚РёР¶РЅ.РїСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏРј</name>
-                <name_ru>COMPUTHERM Q7 RF РґРёСЃС‚Р°РЅС†С–Р№РЅРµ РєРµСЂСѓРІ. Р· С‚РёР¶РЅ.РїСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏРј</name_ru>
-                <fullname>РґРёСЃС‚Р°РЅС†С–Р№РЅРµ РєРµСЂСѓРІР°РЅРЅСЏ Р· С‚РёР¶РЅРµРІРёРј РїСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏРј computherm Q7rf</fullname>
-                <partnumber/>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-            <node kod="88074" isgroup="0" garant="0" cena_dyler="35" cena_gurt="50" cena_dribnyj_gurt="50" cena_rozdrib="50" ostatok_lviv="0" ostatok_kyyiv="0" ostatok_odesa="0">
-                <name>РљРѕР»РµРєС‚РѕСЂ РґР»СЏ РєРѕС‚Р»Р° РЎС‚Р°РЅРґР°СЂС‚РЅРёР№ РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅРёР№ РєРѕР»РµРєС‚РѕСЂ 817 РјРј</name>
-                <name_ru>РљРѕР»Р»РµРєС‚РѕСЂ РґР»СЏ РєРѕС‚Р»Р° РЎС‚Р°РЅРґР°СЂС‚РЅС‹Р№ РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅС‹Р№ РєРѕР»Р»РµРєС‚РѕСЂ 817 РјРј</name_ru>
-                <fullname>РљРѕР»Р»РµРєС‚РѕСЂ РґР»СЏ РєРѕС‚Р»Р° РЎС‚Р°РЅРґР°СЂС‚РЅС‹Р№ РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅС‹Р№ РєРѕР»Р»РµРєС‚РѕСЂ 817 РјРј РљРѕР»Р»РµРєС‚РѕСЂ РґС‹РјРѕСѓРґР°Р»РµРЅРёСЏ Рё РІРѕР·РґСѓС…РѕР·Р°Р±РѕСЂР° 817 РјРј</fullname>
-                <partnumber>1100019</partnumber>
-                <manufacturer>Beretta</manufacturer>
-            </node>
-        </node>
-    </node>
-</node>
+</root>
