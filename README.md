@@ -18,6 +18,7 @@ step3  - Import simple price in controller, and view it in template
 step4  - Now we can import price from command line with import:price command
 step5  - Create an API. Now we can get 10 products per page from   /api/products/[page]
             and all products from category (using id category)     api/categories/[category_id]/products
+step6  - Create backend admin panel for CRUD for Product && Category entity
 
 Installing project
 ----------------------------------
