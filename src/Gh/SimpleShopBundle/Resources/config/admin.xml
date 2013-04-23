@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+
+<container xmlns="http://symfony.com/schema/dic/services"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://symfony.com/schema/dic/services/services-1.0.xsd">
+    <services>
+        <service id="simple_shop.admin.category" class="Gh\SimpleShopBundle\Admin\CategoryAdmin">
+            <tag name="sonata.admin" manager_type="orm" group="SimpleShop" label="Category"/>
+            <argument />
+            <argument>Gh\SimpleShopBundle\Entity\Category</argument>
+            <argument>SonataAdminBundle:CRUD</argument>
+            <call method="setTranslationDomain">
+                <argument>Gh\SimpleShopBundle</argument>
+            </call>
+        </service>
+        <service id="simple_shop.admin.product" class="Gh\SimpleShopBundle\Admin\ProductAdmin">
+            <tag name="sonata.admin" manager_type="orm" group="SimpleShop" label="Product"/>
+            <argument />
+            <argument>Gh\SimpleShopBundle\Entity\Product</argument>
+            <argument>SonataAdminBundle:CRUD</argument>
+            <call method="setTranslationDomain">
+                <argument>Gh\SimpleShopBundle</argument>
+            </call>
+        </service>
+    </services>
+</container>
