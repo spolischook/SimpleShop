@@ -1,12 +1,12 @@
 default:
   context:
     parameters:
-        base_url: http://ghtest.local/app_test.php
+        base_url: http://simpleshop.l/app_test.php
   extensions:
     Behat\Symfony2Extension\Extension:
         mink_driver: true
     Behat\MinkExtension\Extension:
         default_session: selenium2
-        base_url: http://ghtest.local/app_test.php
+        base_url: http://simpleshop.l/app_test.php
         browser_name: firefox
         selenium2: ~

@@ -11,15 +11,15 @@ Anonymous can access to public API
 The master branch have a working project, however you can see how project are grow with step** branch.
 So...
 
-step0  - Just installed Symfony2.2
-step1  - Create SimpleShopBundle and view HelloWorld!!!
-step2  - Install bootstrap and update template
-step3  - Import simple price in controller, and view it in template
-step4  - Now we can import price from command line with import:price command
-step5  - Create an API. Now we can get 10 products per page from   /api/products/[page]
+0. step0  - Just installed Symfony2.2
+1. step1  - Create SimpleShopBundle and view HelloWorld!!!
+2. step2  - Install bootstrap and update template
+3. step3  - Import simple price in controller, and view it in template
+4. step4  - Now we can import price from command line with import:price command
+5. step5  - Create an API. Now we can get 10 products per page from   /api/products/[page]
             and all products from category (using id category)     api/categories/[category_id]/products
-step6  - Create backend admin panel for CRUD for Product && Category entity
-step7  - Create Behat tests, and include travis-ci.
+6. step6  - Create backend admin panel for CRUD for Product && Category entity
+7. step7  - Create Behat tests, and include travis-ci.
 
 Installing project
 ----------------------------------
