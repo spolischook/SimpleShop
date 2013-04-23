@@ -21,6 +21,7 @@ before_script:
     - chmod -R 777 app/cache app/logs
     - app/console --env=test cache:warmup
     - chmod -R 777 app/cache app/logs
+    - app/console app/console import:price dylerprice.xml
 
 script:
 #    - phpunit -c app
