@@ -309,4 +309,9 @@ class Product
     {
         return $this->category->getName();
     }
+
+    public function __toString()
+    {
+        return $this->name ?: 'New Product';
+    }
 }

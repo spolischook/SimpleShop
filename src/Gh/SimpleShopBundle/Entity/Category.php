@@ -195,4 +195,9 @@ class Category
     {
         return $this->children;
     }
+
+    public function __toString()
+    {
+        return $this->name ?: 'New Category';
+    }
 }
